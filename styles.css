@@ -37,6 +37,7 @@ body {
   .pastry1 { /* Cookie */
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     top: 0px;
     left: 0px;
     background-color: #f0bb7f; 
@@ -45,6 +46,7 @@ body {
   .pastry2 { /* Brownie */
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     top: 0px;
     right: 0px;
     background-color: #7f553f; 
@@ -53,6 +55,7 @@ body {
   .pastry3 { /* Cupcake */
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     bottom: 0px;
     left: 0px;
     background-color: #f0a8be; 
@@ -61,6 +64,7 @@ body {
   .pastry4 { /* Jelly Roll */
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     bottom: 0px;
     right: 0px;
     background-color: #7fa8f0; 
