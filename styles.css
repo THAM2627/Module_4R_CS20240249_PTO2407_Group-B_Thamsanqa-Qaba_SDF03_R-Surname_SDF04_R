@@ -36,10 +36,9 @@ body {
   
   .pastry1 { /* Cookie */
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
-    top: 50px;
-    left: 50px;
+    top: 35px;
+    left: 120px;
     background-color: #f0bb7f; 
   }
   
@@ -47,17 +46,17 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    top: 50px;
-    right: 50px;
+    top: 35px;
+    right: 870px;
     background-color: #7f553f; 
   }
   
   .pastry3 { /* Cupcake */
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    bottom: 50px;
-    left: 50px;
+    justify-content: space- space-between;
+    bottom: 35px;
+    left: 900px;
     background-color: #f0a8be; 
   }
   
@@ -65,8 +64,8 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    bottom: 10px;
-    right: 10px;
+    bottom: 35px;
+    right: 120px;
     background-color: #7fa8f0; 
   }
   
